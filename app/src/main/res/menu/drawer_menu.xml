@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:title="게임 어플!">
+
+        <menu>
+            <item
+                android:id="@+id/menu_01"
+                android:title="클릭게임"
+                android:icon="@android:drawable/ic_menu_send"/>
+            <item
+                android:id="@+id/menu_02"
+                android:title="숫자야구게임"
+                android:icon="@android:drawable/ic_menu_send"/>
+        </menu>
+
+    </item>
+
+
+    <item
+        android:title="그 외 어플!">
+
+        <menu>
+            <item android:id="@+id/menu_03"
+                android:title="약국정보"
+                android:icon="@android:drawable/ic_menu_send"/>
+            <item android:id="@+id/menu_04"
+                android:title="스톱워치"
+                android:icon="@android:drawable/ic_menu_send"/>
+            <item android:id="@+id/menu_05"
+                android:title="영화정보"
+                android:icon="@android:drawable/ic_menu_send"/>
+
+            <item android:id="@+id/menu_06"
+                android:title="+"
+                android:icon="@android:drawable/ic_menu_send"/>
+
+            <item android:id="@+id/menu_07"
+                android:title="+"
+                android:icon="@android:drawable/ic_menu_send"/>
+
+            <item android:id="@+id/menu_08"
+                android:title="+"
+                android:icon="@android:drawable/ic_menu_send"/>
+
+        </menu>
+
+    </item>
+
+</menu>
